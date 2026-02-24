@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Reset Password",
+    "content": "Users can reset password from Settings > Security."
+  },
+  {
+    "title": "Refund Policy",
+    "content": "Refunds are allowed within 7 days of purchase."
+  },
+  {
+    "title": "Account Verification",
+    "content": "After registration, users must verify their email address using the verification link sent to their inbox."
+  },
+  {
+    "title": "Change Email Address",
+    "content": "Users can update their email address from Profile Settings > Account Information."
+  },
+  {
+    "title": "Update Profile",
+    "content": "Go to Profile > Edit Profile to update your personal details like name and phone number."
+  },
+  {
+    "title": "Delete Account",
+    "content": "To permanently delete your account, go to Settings > Account > Delete Account. This action cannot be undone."
+  },
+  {
+    "title": "Payment Failure",
+    "content": "If payment fails, please check your card details or try another payment method. Contact support if the issue persists."
+  },
+  {
+    "title": "Subscription Cancellation",
+    "content": "Users can cancel their subscription anytime from Settings > Subscription. Access will continue until the billing cycle ends."
+  },
+  {
+    "title": "Technical Support",
+    "content": "For technical issues, contact support via Help Center or email support@yourcompany.com."
+  },
+  {
+    "title": "Data Privacy",
+    "content": "We ensure that all user data is securely stored and not shared with third parties without consent."
+  }
+]
